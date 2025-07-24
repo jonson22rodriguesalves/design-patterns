@@ -3,7 +3,7 @@ package user;
 import java.util.List;
 import java.util.Scanner;
 
-import service.SistemaMarketingFacade;  // Adicione esta linha
+import service.SistemaMarketingFacade;
 import service.*;
 
 

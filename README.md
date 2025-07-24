@@ -91,7 +91,7 @@ Sistema Java para gestão de campanhas de marketing multicanal com gerenciamento
 * Analista (Email)
 * O sistema não persiste dados entre execuções
  
- ````mermaid
+````mermaid
 classDiagram
     class ServicoMensagem {
         <<interface>>
@@ -168,7 +168,7 @@ classDiagram
     Menu --> SistemaMarketingFacade
     Menu --> GerenciadorClientes
 
- ````
+````
 * 📌 Notas de Implementação
 
 * Princípios SOLID Aplicados
