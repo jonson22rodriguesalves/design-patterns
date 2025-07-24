@@ -48,14 +48,14 @@ Sistema Java para gestão de campanhas de marketing multicanal com gerenciamento
    Escolha uma opção:
 
 * 🎯 Funcionalidades Implementadas
-✔️ Sistema baseado em interface para serviços de mensagens
-✔️ Implementações para 4 canais de comunicação (WhatsApp, Email, SMS, Redes Sociais)
-✔️ Gerenciamento centralizado de clientes (Singleton)
-✔️ Cadastro de clientes com validação de dados
-✔️ Envio segmentado por serviço preferencial ou em massa
-✔️ Processamento de respostas dos clientes
-✔️ Arquitetura expansível para novos serviços
-✔️ Separação clara entre:
+* ✔️ Sistema baseado em interface para serviços de mensagens
+* ✔️ Implementações para 4 canais de comunicação (WhatsApp, Email, SMS, Redes Sociais)
+* ✔️ Gerenciamento centralizado de clientes (Singleton)
+* ✔️ Cadastro de clientes com validação de dados
+* ✔️ Envio segmentado por serviço preferencial ou em massa
+* ✔️ Processamento de respostas dos clientes
+* ✔️ Arquitetura expansível para novos serviços
+* ✔️ Separação clara entre:
 
 * Camada de Apresentação (Menu)
 * Camada de Negócios (MarketingMensageria)
